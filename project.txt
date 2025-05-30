@@ -1,2 +1,2 @@
 PROJECT 1: An interactive app and website for my mom to promote her business which is selling wigs.
- 
+ The website will be in form of a catalog such as jumia where users can surf for the hair they want via filter by type, pictures and videos, prices and length option, product description.
