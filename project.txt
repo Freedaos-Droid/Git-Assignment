@@ -2,3 +2,4 @@ PROJECT 1: An interactive app and website for my mom to promote her business whi
  The website will be in form of a catalog such as jumia where users can surf for the hair they want via filter by type, pictures and videos, prices and length option, product description.
  It will also include easy to use cart system and checkout with payment options such as apple pay, opay, mastercard etc
  Other features sucvh as contact and support, order tracking, account login sections and integration of social media platform etc. will be included as well
+ PROJECT 2: An app for selling anime merchandise such as keychains, cosplaying outfits, personal anime outfit design, posters, action figures etc
